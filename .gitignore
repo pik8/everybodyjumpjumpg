@@ -1,0 +1,13 @@
+bin/
+obj/
+vgcore.*
+*.out
+prof_*
+.ipynb_checkpoints/
+
+venv/
+samples/
+TODO.md
+manifest.xml
+*.der
+*.jungle

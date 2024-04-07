@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <label x="center" y="25%" text="@Strings.jump" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label x="center" y="60%" text="@Strings.settings" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>

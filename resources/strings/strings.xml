@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">EverybodyJumpJump</string>
+
+    <string id="jump">Jump!</string>
+    <string id="settings">Settings</string>
+
+    <string id="menu_label_1">Set Daily Jump Goal</string>
+    <string id="menu_label_2">Set Daily Timer Goal</string>
+</strings>
